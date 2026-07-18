@@ -614,7 +614,7 @@ section,
 --------------------------------------------------------------*/
 .hero {
   background-image: radial-gradient(circle at top left, rgba(255, 255, 255, 0.08), transparent 25%),
-                    radial-gradient(circle at bottom right, rgba(60, 110, 255, 0.14), transparent 20%),
+                    radial-gradient(circle at bottom right, rgba(60, 110, 255, 0.08), transparent 20%),
                     url("../img/bg-img.png");
   background-size: cover;
   background-position: center;
@@ -632,7 +632,9 @@ section,
   position: absolute;
   inset: 0;
   z-index: 1;
-  background: linear-gradient(180deg, rgba(2, 9, 22, 0.88), rgba(8, 14, 27, 0.92));
+  /* Reduced overlay opacity so background image is more visible while
+     keeping sufficient contrast for hero text */
+  background: linear-gradient(180deg, rgba(2, 9, 22, 0.45), rgba(8, 14, 27, 0.45));
 }
 
 .hero .container {
