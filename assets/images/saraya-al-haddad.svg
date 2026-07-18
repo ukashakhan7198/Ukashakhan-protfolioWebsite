@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#041014" />
+  <rect x="60" y="120" width="1080" height="560" rx="20" fill="#10b981" opacity="0.12" />
+  <text x="50%" y="50%" fill="#e6fffa" font-family="Raleway, Arial, sans-serif" font-size="44" font-weight="700" text-anchor="middle" alignment-baseline="central">Saraya Al Haddad</text>
+  <text x="50%" y="58%" fill="#9ae6b4" font-family="Roboto, Arial, sans-serif" font-size="20" text-anchor="middle">Business Website</text>
+</svg>

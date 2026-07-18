@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#0ea5e9" />
+      <stop offset="1" stop-color="#06b6d4" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="#0f172a" />
+  <rect x="60" y="120" width="1080" height="560" rx="20" fill="url(#g)" opacity="0.14" />
+  <text x="50%" y="50%" fill="#ffffff" font-family="Raleway, Arial, sans-serif" font-size="48" font-weight="700" text-anchor="middle" alignment-baseline="central">Neo Osaka</text>
+  <text x="50%" y="58%" fill="#cbd5e1" font-family="Roboto, Arial, sans-serif" font-size="20" text-anchor="middle">Business Website</text>
+</svg>

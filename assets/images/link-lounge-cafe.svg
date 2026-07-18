@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#071026" />
+  <rect x="60" y="120" width="1080" height="560" rx="20" fill="#f59e0b" opacity="0.12" />
+  <text x="50%" y="50%" fill="#fff" font-family="Raleway, Arial, sans-serif" font-size="40" font-weight="700" text-anchor="middle" alignment-baseline="central">Link Lounge Cafe</text>
+  <text x="50%" y="58%" fill="#fde68a" font-family="Roboto, Arial, sans-serif" font-size="18" text-anchor="middle">Marketing Website</text>
+</svg>
